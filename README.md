@@ -17,6 +17,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
+
 
 [instagram]: https://www.instagram.com/constantine_tishchenko
 [vk]: https://vk.com/iosconstantine
