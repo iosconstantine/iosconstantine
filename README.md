@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Konstantin
 
-<!--
-**iosconstantine/iosconstantine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=iosconstantine)
 
-Here are some ideas to get you started:
+### I'm a student of GeekBrains University at the faculty of iOS Development
+- 💻 I like to write code
+- 📚 I'm constantly learning new things
+- 💪 I'll do all my best to become a good iOS developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+### Languages and Tools:
+
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />
+
+[instagram]: https://www.instagram.com/constantine_tishchenko
+[vk]: https://vk.com/iosconstantine
