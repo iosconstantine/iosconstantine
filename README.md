@@ -12,9 +12,12 @@
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />
 
 [instagram]: https://www.instagram.com/constantine_tishchenko
 [vk]: https://vk.com/iosconstantine
+<br />
