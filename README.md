@@ -18,6 +18,8 @@
 
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
+<img align="left" alt="React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/cocoapods-logo-png-transparent.png" />
+<img align="left" alt="React" width="26px" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" />
 
 
 [instagram]: https://www.instagram.com/constantine_tishchenko
