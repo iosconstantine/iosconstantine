@@ -19,7 +19,7 @@
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/swift.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
 <img align="left" alt="React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/cocoapods-logo-png-transparent.png" />
-<img align="left" alt="React" width="26px" src="https://pngimg.com/uploads/github/github_PNG58.png" />
+<img align="left" alt="React" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmouad-mahfoud&psig=AOvVaw0QvHXe4fChHH76arJ58WOX&ust=1628207440483000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjHgsvHmPICFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/87086565/128269952-922ef137-ae84-4c12-8519-76407a64485d.png)" />
 
 
 [instagram]: https://www.instagram.com/constantine_tishchenko
