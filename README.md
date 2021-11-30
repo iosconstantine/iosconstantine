@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1638279427~hmac=110e01c0c98cdc171f4c15aee7bfc973" />][instagram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938083.png?token=exp=1638279365~hmac=2775b9cd61361d302a9e6f1fcd1fa898" />][vk]
 
 <br />
 
