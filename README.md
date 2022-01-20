@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1638279427~hmac=110e01c0c98cdc171f4c15aee7bfc973" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938083.png?token=exp=1638279365~hmac=2775b9cd61361d302a9e6f1fcd1fa898" />][vk]
-[<img align="left" alt="VladKalachev | Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1638279483~hmac=d845ffbb633c7bfcf652b44d88994041" />][telegram]
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" />][instagram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504953.png?token=exp=1642668279~hmac=0ea6bd2a7696a4eb8da7fd7ed2900b6a" />][vk]
+[<img align="left" alt="VladKalachev | Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1642668347~hmac=a007e7f0482de7005ec23c4d55c45ff1" />][telegram]
 
 <br />
 
