@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=iosconstantine)
 
-### I'm a student of GeekBrains University at the faculty of iOS Development
 - 💻 I like to write code
 - 📚 I'm constantly learning new things
 - 💪 I'll do all my best to become a good iOS developer
