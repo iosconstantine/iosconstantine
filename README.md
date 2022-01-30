@@ -16,8 +16,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="26px" src="https://assets.website-files.com/600315d4e6156584cf7eab87/60055a6e92761bec328eb100_Swift.png" />
-<img align="left" alt="React" width="26px" src="https://assets.website-files.com/600315d4e6156584cf7eab87/60055c1c8209eeafc5afc04b_xcode.png" />
+<img align="left" alt="React" width="26px" src="https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61e542fd0bc9434f13fedaee_Swift.png" />
+<img align="left" alt="React" width="26px" src="https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61e542fd0bc94384f8fedaf1_xcode.png" />
 <img align="left" alt="React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/cocoapods-logo-png-transparent.png" />
 <img align="left" alt="React" width="26px" src="https://i0.wp.com/intopsite.ru/wp-content/uploads/2018/03/git.png" />
 <img align="left" alt="React" width="26px" src="https://assets.website-files.com/600315d4e6156584cf7eab87/60055faac147313d5e5639dd_iTunes%20Connect.png" />
