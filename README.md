@@ -10,7 +10,7 @@
 
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1643566111~hmac=e76a90eeb60185cc19ad10466d7c6dad" />][vk]
-[<img align="left" alt="VladKalachev | Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1642668347~hmac=a007e7f0482de7005ec23c4d55c45ff1" />][telegram]
+[<img align="left" alt="VladKalachev | Telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1646175587~hmac=b6950e58f8ad959351084c33403f8808" />][telegram]
 
 <br />
 
