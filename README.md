@@ -4,7 +4,6 @@
 
 - 💻 I like to write code
 - 📚 I'm constantly learning new things
-- 💪 I'll do all my best to become a good iOS developer
 
 ### Connect with me:
 
