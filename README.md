@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Konstantin | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-[<img align="left" alt="Konstantin | VK" width="22px" src="https://img.icons8.com/fluency/344/vk-circled.png" />][vk]
 [<img align="left" alt="Konstantin | Telegram" width="22px" src="https://img.icons8.com/fluency/344/telegram-app.png" />][telegram]
 
 <br />
@@ -25,6 +24,5 @@
 
 
 [instagram]: https://www.instagram.com/constantine_tishchenko
-[vk]: https://vk.com/iosconstantine
 [Telegram]: https://t.me/iosconstantine
 <br />
