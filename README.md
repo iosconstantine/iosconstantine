@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Konstantin | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
-[<img align="left" alt="Konstantin | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1656452457~hmac=d6645e3c6974af58327f3613cfd0fe0d" />][vk]
+[<img align="left" alt="Konstantin | VK" width="22px" src="https://img.icons8.com/fluency/344/vk-circled.png" />][vk]
 [<img align="left" alt="Konstantin | Telegram" width="22px" src="https://img.icons8.com/fluency/344/telegram-app.png" />][telegram]
 
 <br />
